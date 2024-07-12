@@ -1,8 +1,6 @@
 <h3>Hello there, I'm Arshdeep Singh 👋</h3>
 <h4>Make Difficult things easy using Tech<h4>
 
-<p>Github work profile: https://github.com/arshdeep-relicx</p>
-
 <hr>
 
 <h3>How to reach me:</h3>
